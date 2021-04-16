@@ -9,6 +9,10 @@
 </p>
 
 ## :postbox: Contact Me
+<a href="https://www.instagram.com/saiparn_02/">
+    <img alt="Instagram" src="https://img.shields.io/badge/IG%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
 [<img width="30px" color="red" src="image/gmail.svg" />][e-mail]
 
 
