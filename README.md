@@ -1,5 +1,5 @@
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### My name is Panida, I'm studying in Faculty of Engineering and majoring in Software Engineering at Kasetsart University.
+#### My name is Panida, I'm studying in Faculty of Engineering and majoring in Software Engineering at Kasetsart University :nerd_face:.
 ## :bar_chart: Github Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanidaOun&show_icons=true&theme=material-palenight&line_height=21"/>
