@@ -16,11 +16,13 @@
 <a href="mailto:%20panida.ou@ku.th">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
+<a href="https://www.facebook.com/profile.php?id=100006175367918">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a> 
 
-[<img width="30px" color="red" src="image/gmail.svg" />][e-mail]
+
 </p>
 
 
-[e-mail]: mailto:%20panida.ou@ku.th
 
 
