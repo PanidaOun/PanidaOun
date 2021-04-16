@@ -9,6 +9,6 @@
 </p>
 
 ## :postbox: Contact Me
-Click here :arrow_right: [<img align="left" width="22px" color="red" src="image/gmail.svg" />][e-mail]
+Click here :arrow_right: [<img width="22px" color="red" src="image/gmail.svg" />][e-mail]
 
 [e-mail]: mailto:%20panida.ou@ku.th
