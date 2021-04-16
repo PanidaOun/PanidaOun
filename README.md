@@ -9,7 +9,6 @@
 </p>
 
 ## :postbox: Contact Me
-<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 [<img width="30px" color="red" src="image/gmail.svg" />][e-mail]
 
 [e-mail]: mailto:%20panida.ou@ku.th
