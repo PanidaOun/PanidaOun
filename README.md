@@ -2,11 +2,10 @@
 #### My name is Panida :nerd_face:, I'm studying in Faculty of Engineering and majoring in Software Engineering at Kasetsart University :school:.
 ## :bar_chart: Github Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanidaOun&show_icons=true&theme=dracula&line_height=21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanidaOun&show_icons=true&theme=radical&line_height=21"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanidaOun&langs_count=8&layout=compact&theme=buefy" />
   </a>
-  ![Panida's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PanidaOun)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## :postbox: Contact Me
