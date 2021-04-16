@@ -11,8 +11,11 @@
 ## :postbox: Contact Me
 <p align="left">
 <a href="https://www.instagram.com/saiparn_02/">
-    <img alt="Instagram" src="https://img.shields.io/badge/IG%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+<a href="mailto:%20panida.ou@ku.th">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> 
 
 [<img width="30px" color="red" src="image/gmail.svg" />][e-mail]
 </p>
