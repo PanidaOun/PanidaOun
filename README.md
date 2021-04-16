@@ -9,9 +9,10 @@
 </p>
 
 ## :postbox: Contact Me
-<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>[instagram]
+<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 [<img width="30px" color="red" src="image/gmail.svg" />][e-mail]
+[<img width="30px" src="https://img.shields.io/badge/<IG>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][e-mail]
 
 [e-mail]: mailto:%20panida.ou@ku.th
-[instragram]: mailto:%20panida.ou@ku.th
+
 
