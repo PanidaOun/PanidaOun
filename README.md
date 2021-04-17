@@ -10,13 +10,13 @@
 
 ## :postbox: Contact Me
 <p align="left">
-<a href="https://www.instagram.com/saiparn_02/">
+<a href="https://www.instagram.com/saiparn_02/" target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:%20panida.ou@ku.th">
+<a href="mailto:%20panida.ou@ku.th" target="blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
-<a href="https://www.facebook.com/profile.php?id=100006175367918">
+<a href="https://www.facebook.com/profile.php?id=100006175367918" target="blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a> 
 
