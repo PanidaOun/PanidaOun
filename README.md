@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PanidaOun&label=Profile%20views&color=0e75b6&style=flat" alt="PanidaOun" /> </p>
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### My name is Panida, you can also call me Saiparn :nerd_face:. I'm studying in Software Engineering at Kasetsart University :books::woman_technologist:.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PanidaOun&label=Profile%20views&color=0e75b6&style=flat" alt="PanidaOun" /> </p>
 ## :bar_chart: Github Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanidaOun&show_icons=true&theme=onedark&line_height=21"/>
