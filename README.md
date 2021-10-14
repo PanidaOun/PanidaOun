@@ -19,7 +19,9 @@
 <a href="https://www.facebook.com/profile.php?id=100006175367918" target="blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a> 
-
+<a href="https://www.linkedin.com/in/panida-ounnaitam-b56713223/" target="blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
 
 </p>
 
